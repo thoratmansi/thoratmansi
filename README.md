@@ -1,85 +1,58 @@
+Here’s a refined, well-structured professional summary that highlights your expertise, projects, and what sets you apart:
+
+---
+
 # **Hi there! 👋 I'm Mansi Thorat**  
-### **Data Engineer | BI Analyst | AI-Driven Innovator**  
+### **Data Engineer | Data Analyst | Business Intelligence Professional**  
 
-💡 **Engineering data solutions. Unlocking insights. Driving intelligent automation.**  
+## **About Me**  
+I am a data-driven professional with expertise in **data engineering, analytics, and business intelligence**, passionate about transforming raw data into meaningful insights. With a strong foundation in **Python, SQL, Power BI, Airflow, DBT, and cloud technologies**, I specialize in designing scalable **ETL pipelines, optimizing data workflows, and building interactive dashboards** for strategic decision-making. My diverse experience spans **AI-driven solutions, real-time analytics, and data visualization**, making me a versatile asset in the evolving tech landscape.
 
-With a passion for **data-driven decision-making**, I specialize in **building scalable data pipelines, optimizing analytics workflows, and integrating AI-driven insights** into business intelligence systems. My expertise spans **ETL development, cloud computing, visualization, and AI-enhanced analytics**, empowering organizations with actionable intelligence.  
-
----
-
-## **🚀 What I Do**  
-✔ **Data Engineering & ETL Pipelines** – Architecting efficient **data ingestion, transformation, and storage** solutions.  
-✔ **Business Intelligence & Visualization** – Designing **insightful dashboards** using **Power BI, Tableau, and AWS QuickSight**.  
-✔ **AI-Driven Data Automation** – Leveraging **LLMs, vector databases, and cloud AI tools** to enhance analytics.  
-✔ **Cloud & Big Data Solutions** – Implementing **AWS, Snowflake, and Databricks** for scalable and cost-effective data processing.  
-✔ **Optimizing Performance & Scalability** – Enhancing SQL queries, reducing compute costs, and improving data reliability.  
+What sets me apart? I combine deep technical expertise with a business-oriented mindset—ensuring that every data solution is **impact-driven, scalable, and user-friendly**. Whether it's optimizing cloud-based infrastructure, building machine learning-powered analytics, or developing AI-driven automation, I thrive at the intersection of **data, automation, and business strategy**.
 
 ---
 
-## **🔹 Technical Expertise**  
-💻 **Programming & Scripting**: Python (Pandas, NumPy, PySpark, Matplotlib, Seaborn), SQL  
-📊 **BI & Analytics**: Power BI, Tableau, Looker, AWS QuickSight  
-⚙️ **ETL & Data Engineering**: Apache Airflow, DBT, Informatica, Talend, Azure Data Factory  
-☁ **Cloud & Big Data**: AWS (S3, Redshift, Bedrock, Athena, Glue), Snowflake, Databricks, Kafka  
-🛢 **Databases**: SQL Server, MySQL, PostgreSQL, NoSQL  
-🤖 **AI & ML**: OpenAI GPT-4, LangChain, Pinecone, LLM-based Data Extraction  
+## **Education**  
+**Northeastern University** (Expected May 2025)  
+*MGEN in Information Systems*  
 
 ---
 
-## **💼 Professional Experience**  
-### **🔹 BI Engineer Intern | Leaniar | Feb 2025 – Present | California, USA**  
-- Built **AWS-based ETL pipelines** handling **100,000+ records daily**, leveraging **Lambda, S3, Redshift, and Glue**.  
-- Developed **Agentic AI workflows** to automate data-driven insights, increasing efficiency by **25%**.  
-- Created **BI dashboards** with Power BI, transforming raw data into actionable intelligence.  
+## **Key Projects & Achievements**  
+### **🚀 Data Engineering & Automation**  
+🔹 **Automated Weather Data ETL Pipeline** – Developed an **Apache Airflow**-powered ETL pipeline to fetch real-time weather data via API, transform it, and store it in **PostgreSQL**. Automated scheduling ensured seamless data updates for downstream analytics.  
 
-### **🔹 Data Engineer | Resosoft Services | Sept 2022 – July 2023 | Pune, India**  
-- Optimized **data pipelines** using **PySpark & SQL**, boosting **processing efficiency by 30%**.  
-- Migrated **on-premise data to AWS & Snowflake**, reducing storage costs by **40%**.  
-- Improved **query performance & data integrity**, enabling seamless analytics at scale.  
+🔹 **Intelligent Resume Screening with LLM & LangChain** – Engineered an **AI-driven resume screening tool** using **GPT-4 & Pinecone**, streamlining candidate selection via **vector similarity search**. Designed an interactive UI in **Streamlit** to enhance recruiter efficiency.  
 
-### **🔹 Data Analytics Engineer | Sahajananda Tech Services | Nov 2021 – July 2022 | Jalgaon, India**  
-- Processed **100K+ data points** with Python, extracting **marketing insights** that improved ROI by **20%**.  
-- Built **Tableau dashboards** for real-time monitoring, increasing **data accessibility across teams**.  
+### **📊 Data Analysis & Business Intelligence**  
+🔹 **Salary Prediction Feature Analysis** – Conducted **data profiling, feature engineering, and statistical analysis** on 10,000+ records to identify key salary predictors, leveraging multiple ML techniques for insights.  
 
----
+🔹 **Urban Traffic Crash Data Profiling** – Analyzed **3.2M+ accident records** from major US cities, identifying key risk factors and proposing **data transformation strategies using Talend**.  
 
-## **📌 Featured Projects**  
-🔹 **Automated Weather Data ETL Pipeline**  
-📍 Built an **Apache Airflow-based ETL pipeline** to extract real-time weather data from **Open-Meteo API** and store it in **PostgreSQL**. Achieved **30% faster ingestion** with efficient data handling mechanisms.  
+🔹 **Integrated Food Safety Analytics** – Designed a **BI solution** for food safety management, improving **data redundancy (-20%) & data protection (+25%)** using **Navicat, Alteryx, Python, SQL Server, Power BI, and Tableau**.  
 
-🔹 **AI-Powered Resume Screening with LangChain & GPT-4**  
-📍 Designed a **resume parsing & matching system** using **GPT-4, LangChain, and Pinecone**, achieving **80%+ accuracy** in AI-driven candidate screening.  
+🔹 **Service Request Analytics** – Led a **cross-functional data initiative**, uncovering **200+ data inconsistencies** and driving a **15% improvement in service response times** via **Power BI & Tableau dashboards**.  
 
-🔹 **Urban Traffic Crash Data Profiling**  
-📍 Analyzed **3.2M crash records** from major US cities, detecting **data quality issues & trends**. Implemented **data transformation in Talend** to improve consistency.  
+### **💡 Strategic Data Solutions & AI-driven Insights**  
+🔹 **Personal Finance Management System** – Built a **scalable data model** with optimized storage, reducing redundancy by **20%**, and implemented **automated data loading (↑30% efficiency)** using triggers & stored procedures.  
 
-🔹 **Integrated Food Safety Analytics**  
-📍 Led a **BI project** integrating food safety datasets using **SQL, Python, Power BI, and Alteryx**, improving **data protection by 25%**.  
+🔹 **Recession Analysis** – Applied **Python-based statistical modeling** to detect recession trends, generating actionable insights for economic forecasting.  
 
-🔹 **Service Request Analytics**  
-📍 Built **Power BI & Tableau dashboards** to optimize service request workflows, reducing response times by **15%**.  
+🔹 **Smart COVAX Distribution System** – Designed an AI-driven **vaccine distribution platform**, optimizing supply chain logistics and increasing distribution efficiency by **20%**.  
 
 ---
 
-## **🔥 What Sets Me Apart?**  
-✅ **Hybrid Expertise in Engineering & Analytics** – I bring the **best of both worlds**, seamlessly integrating **data pipelines with business intelligence** to unlock insights.  
-✅ **AI-Driven Data Innovation** – I leverage **LLMs, vector databases, and AI automation** to enhance **data processing & analytics workflows**.  
-✅ **Cloud-First Approach** – I build **scalable, cloud-native data solutions** with **AWS, Snowflake, and Airflow** to support high-performance analytics.  
-✅ **Problem-Solver Mindset** – Whether it’s **data optimization, query performance tuning, or AI integration**, I thrive on **solving complex data challenges**.  
+## **Technical Expertise**  
+**Languages:** Python, SQL, PySpark, JavaScript  
+**Data Engineering:** Apache Airflow, DBT, Snowflake, PostgreSQL, AWS, Docker  
+**Analytics & Visualization:** Power BI, Tableau, Seaborn, Matplotlib  
+**AI & ML:** GPT-4, LangChain, Pinecone, Scikit-Learn  
+**Cloud & Big Data:** AWS (S3, Redshift, Lambda), GCP, Azure  
 
 ---
 
-## **🌟 Beyond Work**  
-When I'm not optimizing **ETL workflows** or building **data-driven AI solutions**, you'll find me:  
-🚀 Exploring **emerging AI & LLM trends**  
-📊 Experimenting with **new visualization techniques**  
-🎨 Designing **interactive dashboards** for fun  
-
----
-
-## **📫 Let's Connect!**  
-📧 **Email**: thorat.m@northeastern.edu  
-🔗 **LinkedIn**: [linkedin.com/in/mansithorat](https://www.linkedin.com/in/mansithorat/)  
-💻 **GitHub**: [github.com/thoratmansi](https://github.com/thoratmansi?tab=repositories)  
-
-Let's innovate with **Data, AI, and Cloud! 🚀**  
+## **What Makes Me Different?**  
+💡 **AI-Driven Mindset** – I blend **AI, automation, and data engineering** to create intelligent, scalable solutions.  
+🚀 **Full-Stack Data Expertise** – From **ETL pipelines** to **BI dashboards**, I handle **end-to-end data workflows**.  
+📈 **Business-Centric Approach** – I don’t just process data—I **translate it into strategic insights** for decision-makers.  
+🎯 **Impact-First Thinking** – Every data solution I build **drives efficiency, automation, and ROI** for organizations.  
