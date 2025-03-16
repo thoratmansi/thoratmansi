@@ -1,6 +1,3 @@
-Here’s a refined, well-structured professional summary that highlights your expertise, projects, and what sets you apart:
-
----
 
 # **Hi there! 👋 I'm Mansi Thorat**  
 ### **Data Engineer | Data Analyst | Business Intelligence Professional**  
