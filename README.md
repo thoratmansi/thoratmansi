@@ -7,7 +7,7 @@ I am a data-driven professional with expertise in **data engineering, analytics,
 
 What sets me apart? I combine deep technical expertise with a business-oriented mindset—ensuring that every data solution is **impact-driven, scalable, and user-friendly**. Whether it's optimizing cloud-based infrastructure, building machine learning-powered analytics, or developing AI-driven automation, I thrive at the intersection of **data, automation, and business strategy**.
 
-- **Education**:
+## **Education**:
   - *Master of Science in Information Systems*, Northeastern University, Boston
   - *Bachelor of Engineering in Electronics and Telecommunication*, Savitribai Phule Pune University, India
 
