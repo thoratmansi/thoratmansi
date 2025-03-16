@@ -10,9 +10,9 @@ What sets me apart? I combine deep technical expertise with a business-oriented 
 ---
 
 ## **Education**  
-**Northeastern University** (Expected May 2025)  
-*MGEN in Information Systems*  
 
+Master of Science in Information Systems, Northeastern University, Boston
+Bachelor of Engineering in Electronics and Telecommunication, Savitribai Phule Pune University, India
 ---
 
 ## **Key Projects & Achievements**  
