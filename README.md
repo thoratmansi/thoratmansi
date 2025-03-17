@@ -5,8 +5,6 @@
 ## **About Me**  
 I am a data-driven professional with expertise in **data engineering, analytics, and business intelligence**, passionate about transforming raw data into meaningful insights. With a strong foundation in **Python, SQL, Power BI, Airflow, DBT, and cloud technologies**, I specialize in designing scalable **ETL pipelines, optimizing data workflows, and building interactive dashboards** for strategic decision-making. My diverse experience spans **AI-driven solutions, real-time analytics, and data visualization**, making me a versatile asset in the evolving tech landscape.
 
-What sets me apart? I combine deep technical expertise with a business-oriented mindset—ensuring that every data solution is **impact-driven, scalable, and user-friendly**. Whether it's optimizing cloud-based infrastructure, building machine learning-powered analytics, or developing AI-driven automation, I thrive at the intersection of **data, automation, and business strategy**.
-
 ## **Education**:
   - *Master of Science in Information Systems*, Northeastern University, Boston
   - *Bachelor of Engineering in Electronics and Telecommunication*, Savitribai Phule Pune University, India
