@@ -38,7 +38,7 @@ I am a data-driven professional with expertise in **data engineering, analytics,
 **Data Engineering:** Apache Airflow, DBT, Snowflake, PostgreSQL, AWS, Docker  
 **Analytics & Visualization:** Power BI, Tableau, Seaborn, Matplotlib  
 **AI & ML:** GPT-4, LangChain, Pinecone, Scikit-Learn  
-**Cloud & Big Data:** AWS (S3, Redshift, Lambda), GCP, Azure  
+**Cloud & Big Data:** AWS (S3, Redshift, Lambda, Bedrock, Glue, EC2), GCP, Azure  
 
 ---
 
