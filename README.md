@@ -34,7 +34,7 @@ I am a data-driven professional with expertise in **data engineering, analytics,
 ---
 
 ## **Technical Expertise**  
-**Languages:** Python, SQL, PySpark, JavaScript  
+**Languages:** Python, SQL, PySpark
 **Data Engineering:** Apache Airflow, DBT, Snowflake, PostgreSQL, AWS, Docker  
 **Analytics & Visualization:** Power BI, Tableau, Seaborn, Matplotlib  
 **AI & ML:** GPT-4, LangChain, Pinecone, Scikit-Learn  
