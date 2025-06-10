@@ -1,556 +1,340 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mansi Thorat - Data Professional</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# Hi there! 👋 I'm **Mansi Thorat**
 
-        body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            padding: 20px;
-        }
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=800&lines=Data+Engineer+%7C+Data+Analyst+%7C+BI+Professional;Transforming+Raw+Data+into+Meaningful+Insights;AI-Driven+Solutions+%26+Real-Time+Analytics)](https://git.io/typing-svg)
 
-        .resume-container {
-            max-width: 1200px;
-            margin: 0 auto;
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-            overflow: hidden;
-            position: relative;
-        }
+</div>
 
-        .header {
-            background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
-            color: white;
-            padding: 40px;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
-        }
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=mansithorat&style=for-the-badge&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansithorat)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
 
-        .header::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M 10 0 L 0 0 0 10" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/></pattern></defs><rect width="100" height="100" fill="url(%23grid)"/></svg>') repeat;
-            opacity: 0.3;
-        }
+</div>
 
-        .header-content {
-            position: relative;
-            z-index: 2;
-        }
+---
 
-        .name {
-            font-size: 3.5em;
-            font-weight: 800;
-            margin-bottom: 10px;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-            background: linear-gradient(45deg, #ffffff, #e8f4fd);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+## 🚀 **About Me**
 
-        .title {
-            font-size: 1.3em;
-            opacity: 0.9;
-            margin-bottom: 20px;
-            font-weight: 300;
-        }
+> *Passionate about transforming raw data into meaningful insights that drive strategic decision-making*
 
-        .data-visualization {
-            display: flex;
-            justify-content: center;
-            gap: 30px;
-            margin-top: 30px;
-            flex-wrap: wrap;
-        }
+I am a **data-driven professional** with expertise in **data engineering, analytics, and business intelligence**. With a strong foundation in **Python, SQL, Power BI, Airflow, DBT, and cloud technologies**, I specialize in designing scalable **ETL pipelines, optimizing data workflows, and building interactive dashboards** for strategic decision-making. 
 
-        .data-point {
-            background: rgba(255, 255, 255, 0.2);
-            border-radius: 15px;
-            padding: 15px 25px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.3);
-            transition: transform 0.3s ease;
-        }
+My diverse experience spans **AI-driven solutions, real-time analytics, and data visualization**, making me a versatile asset in the evolving tech landscape.
 
-        .data-point:hover {
-            transform: translateY(-5px);
-        }
+<div align="center">
 
-        .data-number {
-            font-size: 2em;
-            font-weight: bold;
-            display: block;
-        }
+```mermaid
+mindmap
+  root((Data Professional))
+    Engineering
+      ETL Pipelines
+      Apache Airflow
+      DBT & Snowflake
+      Cloud Architecture
+    Analytics
+      Statistical Modeling
+      Feature Engineering  
+      Predictive Analysis
+      Data Profiling
+    Intelligence
+      Power BI Dashboards
+      Tableau Visualizations
+      KPI Development
+      Strategic Insights
+    AI/ML
+      GPT-4 Integration
+      LangChain & Pinecone
+      Vector Similarity
+      Automated Screening
+```
 
-        .data-label {
-            font-size: 0.9em;
-            opacity: 0.8;
-        }
+</div>
 
-        .main-content {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 40px;
-            padding: 40px;
-        }
+---
 
-        .section {
-            margin-bottom: 40px;
-        }
+## 🎓 **Education**
 
-        .section-title {
-            font-size: 1.8em;
-            font-weight: 700;
-            color: #2c3e50;
-            margin-bottom: 20px;
-            position: relative;
-            padding-left: 20px;
-        }
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Master's-Information_Systems-blue?style=for-the-badge&logo=graduation-cap" alt="Masters"/>
+<br><b>Northeastern University, Boston</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Bachelor's-Electronics_&_Telecom-green?style=for-the-badge&logo=graduation-cap" alt="Bachelors"/>
+<br><b>Savitribai Phule Pune University, India</b>
+</td>
+</tr>
+</table>
 
-        .section-title::before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 50%;
-            transform: translateY(-50%);
-            width: 4px;
-            height: 30px;
-            background: linear-gradient(135deg, #3498db, #2980b9);
-            border-radius: 2px;
-        }
+---
 
-        .about-text {
-            font-size: 1.1em;
-            line-height: 1.8;
-            color: #34495e;
-            text-align: justify;
-        }
+## 💻 **Technical Arsenal**
 
-        .education-item {
-            background: linear-gradient(135deg, #f8f9fa, #e9ecef);
-            border-radius: 15px;
-            padding: 20px;
-            margin-bottom: 15px;
-            border-left: 4px solid #3498db;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
+<div align="center">
 
-        .education-item:hover {
-            transform: translateX(5px);
-            box-shadow: 0 5px 15px rgba(52, 152, 219, 0.2);
-        }
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
-        .degree {
-            font-weight: 600;
-            color: #2c3e50;
-            font-size: 1.1em;
-        }
+### **Data Engineering & ETL**
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-        .institution {
-            color: #7f8c8d;
-            font-style: italic;
-        }
+### **Analytics & Visualization**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-        .project-category {
-            margin-bottom: 30px;
-        }
+### **AI & Machine Learning**
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-        .category-title {
-            font-size: 1.4em;
-            font-weight: 600;
-            color: #2c3e50;
-            margin-bottom: 15px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+### **Cloud & Big Data**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-        .category-icon {
-            width: 30px;
-            height: 30px;
-            background: linear-gradient(135deg, #3498db, #2980b9);
-            border-radius: 50%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-weight: bold;
-        }
+</div>
 
-        .project-item {
-            background: white;
-            border-radius: 12px;
-            padding: 20px;
-            margin-bottom: 15px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-            border-left: 4px solid transparent;
-            background-image: linear-gradient(white, white), linear-gradient(135deg, #3498db, #2980b9);
-            background-origin: border-box;
-            background-clip: content-box, border-box;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
+---
 
-        .project-item:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 25px rgba(52, 152, 219, 0.2);
-        }
+## 📊 **Key Metrics & Impact**
 
-        .project-title {
-            font-weight: 600;
-            color: #2c3e50;
-            margin-bottom: 8px;
-            font-size: 1.1em;
-        }
+<div align="center">
+  
+<table>
+<tr>
+<td align="center"><b>🎯 Projects Completed</b><br/><font size="6"><b>10+</b></font></td>
+<td align="center"><b>📈 Records Analyzed</b><br/><font size="6"><b>3.2M+</b></font></td>
+<td align="center"><b>🔒 Data Protection</b><br/><font size="6"><b>+25%</b></font></td>
+<td align="center"><b>⚡ Efficiency Boost</b><br/><font size="6"><b>+30%</b></font></td>
+</tr>
+<tr>
+<td align="center"><b>🐛 Issues Identified</b><br/><font size="6"><b>200+</b></font></td>
+<td align="center"><b>📉 Redundancy Reduced</b><br/><font size="6"><b>-20%</b></font></td>
+<td align="center"><b>🚀 Response Time</b><br/><font size="6"><b>+15%</b></font></td>
+<td align="center"><b>📦 Distribution Efficiency</b><br/><font size="6"><b>+20%</b></font></td>
+</tr>
+</table>
 
-        .project-description {
-            color: #5d6d7e;
-            line-height: 1.6;
-        }
+</div>
 
-        .tech-skills {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-        }
+---
 
-        .tech-category {
-            background: linear-gradient(135deg, #f8f9fa, #e9ecef);
-            border-radius: 15px;
-            padding: 20px;
-            border: 2px solid transparent;
-            background-image: linear-gradient(135deg, #f8f9fa, #e9ecef), linear-gradient(135deg, #3498db, #2980b9);
-            background-origin: border-box;
-            background-clip: content-box, border-box;
-        }
+## 🏆 **Featured Projects & Achievements**
 
-        .tech-category-title {
-            font-weight: 600;
-            color: #2c3e50;
-            margin-bottom: 12px;
-        }
+### 🚀 **Data Engineering & Automation**
 
-        .tech-list {
-            color: #5d6d7e;
-            line-height: 1.6;
-        }
+<details>
+<summary><b>🌤️ Automated Weather Data ETL Pipeline</b></summary>
+<br>
 
-        .differentiators {
-            background: linear-gradient(135deg, #2c3e50, #3498db);
-            color: white;
-            padding: 30px;
-            border-radius: 20px;
-            margin-top: 30px;
-        }
+- **Tech Stack**: `Apache Airflow` • `PostgreSQL` • `Python` • `APIs`
+- **Achievement**: Developed an **Apache Airflow**-powered ETL pipeline to fetch real-time weather data via API, transform it, and store it in **PostgreSQL**
+- **Impact**: Automated scheduling ensured seamless data updates for downstream analytics
+- **Key Features**:
+  - ✅ Real-time data ingestion
+  - ✅ Automated data transformation
+  - ✅ Scheduled pipeline execution
+  - ✅ Error handling & monitoring
 
-        .differentiators-title {
-            font-size: 1.8em;
-            font-weight: 700;
-            margin-bottom: 20px;
-            text-align: center;
-        }
+</details>
 
-        .differentiator-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-        }
+<details>
+<summary><b>🤖 Intelligent Resume Screening with LLM & LangChain</b></summary>
+<br>
 
-        .differentiator {
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 15px;
-            padding: 20px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            transition: transform 0.3s ease;
-        }
+- **Tech Stack**: `GPT-4` • `LangChain` • `Pinecone` • `Streamlit` • `Vector Search`
+- **Achievement**: Engineered an **AI-driven resume screening tool** using **GPT-4 & Pinecone**, streamlining candidate selection
+- **Impact**: Enhanced recruiter efficiency through vector similarity search
+- **Key Features**:
+  - ✅ AI-powered candidate matching
+  - ✅ Vector similarity search
+  - ✅ Interactive Streamlit UI
+  - ✅ Automated screening workflow
 
-        .differentiator:hover {
-            transform: scale(1.05);
-        }
+</details>
 
-        .diff-icon {
-            font-size: 2em;
-            margin-bottom: 10px;
-            display: block;
-        }
+### 📊 **Data Analysis & Business Intelligence**
 
-        .diff-title {
-            font-weight: 600;
-            margin-bottom: 8px;
-        }
+<details>
+<summary><b>💰 Salary Prediction Feature Analysis</b></summary>
+<br>
 
-        .diff-description {
-            font-size: 0.9em;
-            opacity: 0.9;
-            line-height: 1.5;
-        }
+- **Tech Stack**: `Python` • `Scikit-Learn` • `Statistical Analysis` • `Feature Engineering`
+- **Achievement**: Conducted **data profiling, feature engineering, and statistical analysis** on 10,000+ records
+- **Impact**: Identified key salary predictors using multiple ML techniques
+- **Key Insights**:
+  - 📈 Top salary influencing factors identified
+  - 🎯 ML model accuracy optimization
+  - 📊 Statistical significance validation
 
-        @media (max-width: 768px) {
-            .main-content {
-                grid-template-columns: 1fr;
-                gap: 20px;
-                padding: 20px;
-            }
-            
-            .name {
-                font-size: 2.5em;
-            }
-            
-            .data-visualization {
-                gap: 15px;
-            }
-            
-            .differentiator-grid {
-                grid-template-columns: 1fr;
-            }
-        }
+</details>
 
-        .floating-elements {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            overflow: hidden;
-        }
+<details>
+<summary><b>🚗 Urban Traffic Crash Data Profiling</b></summary>
+<br>
 
-        .floating-element {
-            position: absolute;
-            width: 60px;
-            height: 60px;
-            background: rgba(52, 152, 219, 0.1);
-            border-radius: 50%;
-            animation: float 6s ease-in-out infinite;
-        }
+- **Tech Stack**: `Python` • `Talend` • `Statistical Analysis` • `Data Transformation`
+- **Dataset**: **3.2M+ accident records** from major US cities
+- **Achievement**: Identified key risk factors and proposed data transformation strategies
+- **Impact**: 
+  - 🔍 Risk pattern identification
+  - 📋 Data quality improvement recommendations
+  - 🛠️ ETL process optimization
 
-        .floating-element:nth-child(1) { top: 10%; left: 10%; animation-delay: 0s; }
-        .floating-element:nth-child(2) { top: 20%; right: 15%; animation-delay: 2s; }
-        .floating-element:nth-child(3) { bottom: 30%; left: 20%; animation-delay: 4s; }
-        .floating-element:nth-child(4) { bottom: 10%; right: 10%; animation-delay: 1s; }
+</details>
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0px) rotate(0deg); }
-            50% { transform: translateY(-20px) rotate(180deg); }
-        }
-    </style>
-</head>
-<body>
-    <div class="resume-container">
-        <div class="floating-elements">
-            <div class="floating-element"></div>
-            <div class="floating-element"></div>
-            <div class="floating-element"></div>
-            <div class="floating-element"></div>
-        </div>
-        
-        <div class="header">
-            <div class="header-content">
-                <h1 class="name">Hi there! 👋 I'm Mansi Thorat</h1>
-                <p class="title">Data Engineer | Data Analyst | Business Intelligence Professional</p>
-                
-                <div class="data-visualization">
-                    <div class="data-point">
-                        <span class="data-number">10+</span>
-                        <span class="data-label">Key Projects</span>
-                    </div>
-                    <div class="data-point">
-                        <span class="data-number">3.2M+</span>
-                        <span class="data-label">Records Analyzed</span>
-                    </div>
-                    <div class="data-point">
-                        <span class="data-number">25%</span>
-                        <span class="data-label">Data Protection ↑</span>
-                    </div>
-                    <div class="data-point">
-                        <span class="data-number">30%</span>
-                        <span class="data-label">Efficiency ↑</span>
-                    </div>
-                </div>
-            </div>
-        </div>
+<details>
+<summary><b>🍽️ Integrated Food Safety Analytics</b></summary>
+<br>
 
-        <div class="main-content">
-            <div class="left-column">
-                <div class="section">
-                    <h2 class="section-title">About Me</h2>
-                    <p class="about-text">
-                        I am a data-driven professional with expertise in <strong>data engineering, analytics, and business intelligence</strong>, passionate about transforming raw data into meaningful insights. With a strong foundation in <strong>Python, SQL, Power BI, Airflow, DBT, and cloud technologies</strong>, I specialize in designing scalable <strong>ETL pipelines, optimizing data workflows, and building interactive dashboards</strong> for strategic decision-making. My diverse experience spans <strong>AI-driven solutions, real-time analytics, and data visualization</strong>, making me a versatile asset in the evolving tech landscape.
-                    </p>
-                </div>
+- **Tech Stack**: `Navicat` • `Alteryx` • `Python` • `SQL Server` • `Power BI` • `Tableau`
+- **Achievement**: Designed a comprehensive **BI solution** for food safety management
+- **Impact**: 
+  - 📉 Data redundancy reduced by **20%**
+  - 🔒 Data protection improved by **25%**
+  - 📊 Real-time monitoring dashboards
 
-                <div class="section">
-                    <h2 class="section-title">Education</h2>
-                    <div class="education-item">
-                        <div class="degree">Master of Science in Information Systems</div>
-                        <div class="institution">Northeastern University, Boston</div>
-                    </div>
-                    <div class="education-item">
-                        <div class="degree">Bachelor of Engineering in Electronics and Telecommunication</div>
-                        <div class="institution">Savitribai Phule Pune University, India</div>
-                    </div>
-                </div>
+</details>
 
-                <div class="section">
-                    <h2 class="section-title">Technical Expertise</h2>
-                    <div class="tech-skills">
-                        <div class="tech-category">
-                            <div class="tech-category-title">Languages</div>
-                            <div class="tech-list">Python, SQL, PySpark</div>
-                        </div>
-                        <div class="tech-category">
-                            <div class="tech-category-title">Data Engineering</div>
-                            <div class="tech-list">Apache Airflow, DBT, Snowflake, PostgreSQL, AWS, Docker</div>
-                        </div>
-                        <div class="tech-category">
-                            <div class="tech-category-title">Analytics & Visualization</div>
-                            <div class="tech-list">Power BI, Tableau, Seaborn, Matplotlib</div>
-                        </div>
-                        <div class="tech-category">
-                            <div class="tech-category-title">AI & ML</div>
-                            <div class="tech-list">GPT-4, LangChain, Pinecone, Scikit-Learn</div>
-                        </div>
-                        <div class="tech-category">
-                            <div class="tech-category-title">Cloud & Big Data</div>
-                            <div class="tech-list">AWS (S3, Redshift, Lambda, Bedrock, Glue, EC2), GCP, Azure</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+<details>
+<summary><b>🎫 Service Request Analytics</b></summary>
+<br>
 
-            <div class="right-column">
-                <div class="section">
-                    <h2 class="section-title">Key Projects & Achievements</h2>
-                    
-                    <div class="project-category">
-                        <h3 class="category-title">
-                            <span class="category-icon">🚀</span>
-                            Data Engineering & Automation
-                        </h3>
-                        
-                        <div class="project-item">
-                            <div class="project-title">Automated Weather Data ETL Pipeline</div>
-                            <div class="project-description">
-                                Developed an <strong>Apache Airflow</strong>-powered ETL pipeline to fetch real-time weather data via API, transform it, and store it in <strong>PostgreSQL</strong>. Automated scheduling ensured seamless data updates for downstream analytics.
-                            </div>
-                        </div>
-                        
-                        <div class="project-item">
-                            <div class="project-title">Intelligent Resume Screening with LLM & LangChain</div>
-                            <div class="project-description">
-                                Engineered an <strong>AI-driven resume screening tool</strong> using <strong>GPT-4 & Pinecone</strong>, streamlining candidate selection via <strong>vector similarity search</strong>. Designed an interactive UI in <strong>Streamlit</strong> to enhance recruiter efficiency.
-                            </div>
-                        </div>
-                    </div>
+- **Tech Stack**: `Power BI` • `Tableau` • `SQL` • `Cross-functional Collaboration`
+- **Achievement**: Led a **cross-functional data initiative** analyzing service operations
+- **Impact**: 
+  - 🐛 Uncovered **200+ data inconsistencies**
+  - ⚡ **15% improvement** in service response times
+  - 📊 Interactive dashboard deployment
 
-                    <div class="project-category">
-                        <h3 class="category-title">
-                            <span class="category-icon">📊</span>
-                            Data Analysis & Business Intelligence
-                        </h3>
-                        
-                        <div class="project-item">
-                            <div class="project-title">Salary Prediction Feature Analysis</div>
-                            <div class="project-description">
-                                Conducted <strong>data profiling, feature engineering, and statistical analysis</strong> on 10,000+ records to identify key salary predictors, leveraging multiple ML techniques for insights.
-                            </div>
-                        </div>
-                        
-                        <div class="project-item">
-                            <div class="project-title">Urban Traffic Crash Data Profiling</div>
-                            <div class="project-description">
-                                Analyzed <strong>3.2M+ accident records</strong> from major US cities, identifying key risk factors and proposing <strong>data transformation strategies using Talend</strong>.
-                            </div>
-                        </div>
-                        
-                        <div class="project-item">
-                            <div class="project-title">Integrated Food Safety Analytics</div>
-                            <div class="project-description">
-                                Designed a <strong>BI solution</strong> for food safety management, improving <strong>data redundancy (-20%) & data protection (+25%)</strong> using <strong>Navicat, Alteryx, Python, SQL Server, Power BI, and Tableau</strong>.
-                            </div>
-                        </div>
-                        
-                        <div class="project-item">
-                            <div class="project-title">Service Request Analytics</div>
-                            <div class="project-description">
-                                Led a <strong>cross-functional data initiative</strong>, uncovering <strong>200+ data inconsistencies</strong> and driving a <strong>15% improvement in service response times</strong> via <strong>Power BI & Tableau dashboards</strong>.
-                            </div>
-                        </div>
-                    </div>
+</details>
 
-                    <div class="project-category">
-                        <h3 class="category-title">
-                            <span class="category-icon">💡</span>
-                            Strategic Data Solutions & AI-driven Insights
-                        </h3>
-                        
-                        <div class="project-item">
-                            <div class="project-title">Personal Finance Management System</div>
-                            <div class="project-description">
-                                Built a <strong>scalable data model</strong> with optimized storage, reducing redundancy by <strong>20%</strong>, and implemented <strong>automated data loading (↑30% efficiency)</strong> using triggers & stored procedures.
-                            </div>
-                        </div>
-                        
-                        <div class="project-item">
-                            <div class="project-title">Recession Analysis</div>
-                            <div class="project-description">
-                                Applied <strong>Python-based statistical modeling</strong> to detect recession trends, generating actionable insights for economic forecasting.
-                            </div>
-                        </div>
-                        
-                        <div class="project-item">
-                            <div class="project-title">Smart COVAX Distribution System</div>
-                            <div class="project-description">
-                                Designed an AI-driven <strong>vaccine distribution platform</strong>, optimizing supply chain logistics and increasing distribution efficiency by <strong>20%</strong>.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+### 💡 **Strategic Data Solutions & AI-driven Insights**
 
-        <div class="differentiators">
-            <h2 class="differentiators-title">What Makes Me Different?</h2>
-            <div class="differentiator-grid">
-                <div class="differentiator">
-                    <span class="diff-icon">💡</span>
-                    <div class="diff-title">AI-Driven Mindset</div>
-                    <div class="diff-description">I blend AI, automation, and data engineering to create intelligent, scalable solutions.</div>
-                </div>
-                <div class="differentiator">
-                    <span class="diff-icon">🚀</span>
-                    <div class="diff-title">Full-Stack Data Expertise</div>
-                    <div class="diff-description">From ETL pipelines to BI dashboards, I handle end-to-end data workflows.</div>
-                </div>
-                <div class="differentiator">
-                    <span class="diff-icon">📈</span>
-                    <div class="diff-title">Business-Centric Approach</div>
-                    <div class="diff-description">I don't just process data—I translate it into strategic insights for decision-makers.</div>
-                </div>
-                <div class="differentiator">
-                    <span class="diff-icon">🎯</span>
-                    <div class="diff-title">Impact-First Thinking</div>
-                    <div class="diff-description">Every data solution I build drives efficiency, automation, and ROI for organizations.</div>
-                </div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+<details>
+<summary><b>💳 Personal Finance Management System</b></summary>
+<br>
+
+- **Tech Stack**: `Database Design` • `SQL` • `Stored Procedures` • `Triggers`
+- **Achievement**: Built a **scalable data model** with optimized storage architecture
+- **Impact**:
+  - 📉 Storage redundancy reduced by **20%**
+  - ⚡ Data loading efficiency increased by **30%**
+  - 🔄 Automated data processing workflows
+
+</details>
+
+<details>
+<summary><b>📉 Recession Analysis</b></summary>
+<br>
+
+- **Tech Stack**: `Python` • `Statistical Modeling` • `Time Series Analysis`
+- **Achievement**: Applied **Python-based statistical modeling** to detect recession trends
+- **Impact**: Generated actionable insights for economic forecasting
+- **Key Deliverables**:
+  - 📊 Trend analysis reports
+  - 🔮 Predictive modeling results
+  - 📈 Economic indicator correlations
+
+</details>
+
+<details>
+<summary><b>💉 Smart COVAX Distribution System</b></summary>
+<br>
+
+- **Tech Stack**: `AI/ML` • `Supply Chain Optimization` • `Logistics Analytics`
+- **Achievement**: Designed an **AI-driven vaccine distribution platform**
+- **Impact**: 
+  - 🚀 Distribution efficiency increased by **20%**
+  - 📦 Supply chain logistics optimization
+  - 🎯 Resource allocation improvement
+
+</details>
+
+---
+
+## 🌟 **What Makes Me Different?**
+
+<div align="center">
+
+| 💡 **AI-Driven Mindset** | 🚀 **Full-Stack Data Expertise** |
+|:---:|:---:|
+| I blend **AI, automation, and data engineering** to create intelligent, scalable solutions | From **ETL pipelines** to **BI dashboards**, I handle **end-to-end data workflows** |
+
+| 📈 **Business-Centric Approach** | 🎯 **Impact-First Thinking** |
+|:---:|:---:|
+| I don't just process data—I **translate it into strategic insights** for decision-makers | Every data solution I build **drives efficiency, automation, and ROI** for organizations |
+
+</div>
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansithorat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansithorat&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansithorat&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 **Current Focus Areas**
+
+```python
+current_learning = {
+    "Advanced AI/ML": ["Large Language Models", "Vector Databases", "RAG Systems"],
+    "Cloud Architecture": ["AWS Data Services", "Serverless Analytics", "Real-time Processing"],
+    "Data Engineering": ["Event-driven Architectures", "Stream Processing", "DataOps"],
+    "Business Intelligence": ["Advanced Analytics", "Predictive Modeling", "Self-service BI"]
+}
+
+goals_2025 = [
+    "🎯 Implement MLOps best practices",
+    "🚀 Build scalable real-time analytics platforms", 
+    "💡 Develop AI-powered business intelligence solutions",
+    "📊 Master advanced cloud data architectures"
+]
+```
+
+---
+
+## 🤝 **Let's Connect & Collaborate!**
+
+<div align="center">
+
+**I'm always excited to discuss data projects, share insights, and explore collaboration opportunities!**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansithorat)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 **"Transforming Data into Strategic Advantages"** 🚀
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
