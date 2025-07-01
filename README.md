@@ -11,6 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mansithorat&style=for-the-badge&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansithorat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Tableau](https://img.shields.io/badge/Tableau_Portfolio-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/mansi.thorat2353/vizzes)
 
 </div>
 
@@ -310,6 +311,7 @@ goals_2025 = [
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansithorat)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Tableau Portfolio](https://img.shields.io/badge/View_Tableau_Portfolio-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/mansi.thorat2353/vizzes)
 
 </div>
 
