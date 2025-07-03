@@ -29,46 +29,62 @@ My diverse experience spans **AI-driven solutions, real-time analytics, and data
 
 ### 🎯 **My Data Journey**
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=90&animation=fadeIn" />
+</div>
+
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔧-Data_Engineering-blue?style=for-the-badge" alt="Data Engineering"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100px" />
 <br><br>
-<b>Pipeline Architecture</b><br>
-• ETL/ELT Design<br>
-• Apache Airflow<br>
-• DBT & Snowflake<br>
-• Cloud Orchestration
+<img src="https://img.shields.io/badge/🔧-Data_Engineering-blue?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Data Engineering"/>
+<br><br>
+<b>🏗️ Pipeline Architecture</b><br>
+<code>ETL/ELT Design</code><br>
+<code>Apache Airflow</code><br>
+<code>DBT & Snowflake</code><br>
+<code>Cloud Orchestration</code>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/📊-Analytics-green?style=for-the-badge" alt="Analytics"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100px" />
 <br><br>
-<b>Data Analysis</b><br>
-• Statistical Modeling<br>
-• Feature Engineering<br>
-• Predictive Analysis<br>
-• Data Profiling
+<img src="https://img.shields.io/badge/📊-Analytics-green?style=for-the-badge&logo=python&logoColor=white" alt="Analytics"/>
+<br><br>
+<b>📈 Data Analysis</b><br>
+<code>Statistical Modeling</code><br>
+<code>Feature Engineering</code><br>
+<code>Predictive Analysis</code><br>
+<code>Data Profiling</code>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/💡-Business_Intelligence-orange?style=for-the-badge" alt="BI"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100px" />
 <br><br>
-<b>Strategic Insights</b><br>
-• Power BI Dashboards<br>
-• Tableau Visualizations<br>
-• KPI Development<br>
-• Executive Reporting
+<img src="https://img.shields.io/badge/💡-Business_Intelligence-orange?style=for-the-badge&logo=powerbi&logoColor=white" alt="BI"/>
+<br><br>
+<b>💼 Strategic Insights</b><br>
+<code>Power BI Dashboards</code><br>
+<code>Tableau Visualizations</code><br>
+<code>KPI Development</code><br>
+<code>Executive Reporting</code>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🤖-AI/ML-purple?style=for-the-badge" alt="AI/ML"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100px" />
 <br><br>
-<b>AI Solutions</b><br>
-• GPT-4 Integration<br>
-• LangChain & Pinecone<br>
-• Vector Similarity<br>
-• Automated Screening
+<img src="https://img.shields.io/badge/🤖-AI/ML-purple?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML"/>
+<br><br>
+<b>🧠 AI Solutions</b><br>
+<code>GPT-4 Integration</code><br>
+<code>LangChain & Pinecone</code><br>
+<code>Vector Similarity</code><br>
+<code>Automated Screening</code>
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=90&animation=fadeIn" />
+</div>
 
 </div>
 
@@ -95,34 +111,48 @@ My diverse experience spans **AI-driven solutions, real-time analytics, and data
 
 <div align="center">
 
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### **Data Engineering & ETL**
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### **🐍 Languages & Frameworks**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" alt="SQL"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&labelColor=000000" alt="PySpark"/>
+</p>
 
-### **Analytics & Visualization**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### **🔧 Data Engineering & ETL**
+<p>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white&labelColor=000000" alt="Apache Airflow"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&labelColor=000000" alt="dbt"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=000000" alt="Snowflake"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" alt="Docker"/>
+</p>
 
-### **AI & Machine Learning**
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### **📊 Analytics & Visualization**
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black&labelColor=000000" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&labelColor=000000" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="Seaborn"/>
+</p>
 
-### **Cloud & Big Data**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### **🤖 AI & Machine Learning**
+<p>
+<img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" alt="GPT-4"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=000000" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=000000" alt="Pinecone"/>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000" alt="Scikit Learn"/>
+</p>
+
+### **☁️ Cloud & Big Data**
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000" alt="AWS"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000000" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000" alt="Azure"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
