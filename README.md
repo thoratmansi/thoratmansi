@@ -36,8 +36,6 @@ My diverse experience spans **AI-driven solutions, real-time analytics, and data
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100px" />
-<br><br>
 <img src="https://img.shields.io/badge/🔧-Data_Engineering-blue?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Data Engineering"/>
 <br><br>
 <b>🏗️ Pipeline Architecture</b><br>
@@ -47,8 +45,6 @@ My diverse experience spans **AI-driven solutions, real-time analytics, and data
 <code>Cloud Orchestration</code>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100px" />
-<br><br>
 <img src="https://img.shields.io/badge/📊-Analytics-green?style=for-the-badge&logo=python&logoColor=white" alt="Analytics"/>
 <br><br>
 <b>📈 Data Analysis</b><br>
@@ -58,8 +54,6 @@ My diverse experience spans **AI-driven solutions, real-time analytics, and data
 <code>Data Profiling</code>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100px" />
-<br><br>
 <img src="https://img.shields.io/badge/💡-Business_Intelligence-orange?style=for-the-badge&logo=powerbi&logoColor=white" alt="BI"/>
 <br><br>
 <b>💼 Strategic Insights</b><br>
@@ -69,8 +63,6 @@ My diverse experience spans **AI-driven solutions, real-time analytics, and data
 <code>Executive Reporting</code>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100px" />
-<br><br>
 <img src="https://img.shields.io/badge/🤖-AI/ML-purple?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML"/>
 <br><br>
 <b>🧠 AI Solutions</b><br>
