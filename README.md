@@ -27,30 +27,48 @@ My diverse experience spans **AI-driven solutions, real-time analytics, and data
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Data Professional))
-    Engineering
-      ETL Pipelines
-      Apache Airflow
-      DBT & Snowflake
-      Cloud Architecture
-    Analytics
-      Statistical Modeling
-      Feature Engineering  
-      Predictive Analysis
-      Data Profiling
-    Intelligence
-      Power BI Dashboards
-      Tableau Visualizations
-      KPI Development
-      Strategic Insights
-    AI/ML
-      GPT-4 Integration
-      LangChain & Pinecone
-      Vector Similarity
-      Automated Screening
-```
+### 🎯 **My Data Journey**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔧-Data_Engineering-blue?style=for-the-badge" alt="Data Engineering"/>
+<br><br>
+<b>Pipeline Architecture</b><br>
+• ETL/ELT Design<br>
+• Apache Airflow<br>
+• DBT & Snowflake<br>
+• Cloud Orchestration
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📊-Analytics-green?style=for-the-badge" alt="Analytics"/>
+<br><br>
+<b>Data Analysis</b><br>
+• Statistical Modeling<br>
+• Feature Engineering<br>
+• Predictive Analysis<br>
+• Data Profiling
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💡-Business_Intelligence-orange?style=for-the-badge" alt="BI"/>
+<br><br>
+<b>Strategic Insights</b><br>
+• Power BI Dashboards<br>
+• Tableau Visualizations<br>
+• KPI Development<br>
+• Executive Reporting
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖-AI/ML-purple?style=for-the-badge" alt="AI/ML"/>
+<br><br>
+<b>AI Solutions</b><br>
+• GPT-4 Integration<br>
+• LangChain & Pinecone<br>
+• Vector Similarity<br>
+• Automated Screening
+</td>
+</tr>
+</table>
 
 </div>
 
