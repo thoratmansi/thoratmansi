@@ -1,4 +1,9 @@
-<h1 align="center">Hi there! 👋 I'm <span style="color:#2196F3">Mansi Thorat</span></h1>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:90CAF9&height=150&section=header&text=Mansi%20Thorat&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h2 align="center">👋 Hi there, I'm <span style="color:#2196F3">Mansi Thorat</span></h2>
 
 <p align="center">
   <strong>Data Engineer • Data Analyst • BI Professional</strong><br>
@@ -21,78 +26,93 @@
 
 ## 🚀 About Me
 
-🎯 I specialize in designing **scalable data pipelines**, automating workflows, and building **interactive dashboards** to guide business decisions.
+🎯 I’m a **data-driven professional** with experience in data engineering, analytics, and BI — crafting scalable pipelines, building insightful dashboards, and delivering automation that drives business outcomes.
 
-💡 With a solid foundation in **Python, SQL, Power BI, Airflow, dbt, Snowflake, and AWS**, I thrive at the intersection of data engineering and advanced analytics — including **LLMs, automation, and AI-powered insights**.
+🧠 I work across the modern data stack with tools like **Python, SQL, Airflow, dbt, Power BI, Snowflake, and AWS**, and love applying AI to solve real-world problems.
 
 ---
 
-## 🛠️ Technical Toolkit
+## ⚒️ Technical Toolkit
 
-| 💻 Languages | 🏗️ Engineering & Pipelines | 📊 BI & Visualization | 🤖 AI/ML & Automation | ☁️ Cloud |
-|-------------|-----------------------------|------------------------|------------------------|----------|
-| Python, SQL, PySpark | Airflow, dbt, Snowflake, PostgreSQL, Docker | Power BI, Tableau, Matplotlib, Seaborn | GPT-4, LangChain, Pinecone, Scikit-learn, Streamlit | AWS, GCP, Azure |
+| 💻 Languages & Tools | 📊 Data & BI | 🧠 AI & ML | ☁️ Cloud & DevOps |
+|----------------------|--------------|------------|-------------------|
+| Python, SQL, PySpark | Power BI, Tableau, Matplotlib, Seaborn | GPT-4, LangChain, Pinecone, Scikit-learn, Streamlit | AWS, GCP, Azure, Docker |
+| Airflow, dbt, PostgreSQL, Snowflake | KPI Reporting, Dashboards | Resume Matching, Vector Search | Serverless, Real-time Processing |
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **Northeastern University, Boston**  
-  *MS in Information Systems – Data Analytics (2025)*
+📘 **Northeastern University, Boston**  
+*MS in Information Systems – Data Analytics (2025)*
 
-- 🎓 **Savitribai Phule Pune University**  
-  *BE in Electronics & Telecommunication (2021)*
+📗 **Savitribai Phule Pune University**  
+*BE in Electronics & Telecommunication (2021)*
 
 ---
 
-## 📈 Key Stats
+## 📈 Key Impact Stats
 
-- 📊 **3.2M+** records analyzed  
-- ⚙️ **10+** end-to-end projects completed  
-- 🐛 **200+** data quality issues uncovered  
-- 💡 **30%+** workflow efficiency boost  
-- 🔒 **25%** improvement in data security  
-- 🧹 **20%** redundancy reduction  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansithorat&show_icons=true&theme=radical&hide=stars&custom_title=GitHub%20Stats" width="400"/>
+</p>
+
+| 📊 Metric                     | 🚀 Value       |
+|------------------------------|----------------|
+| Records Analyzed             | **3.2M+**       |
+| Projects Delivered           | **10+**         |
+| Pipeline Efficiency Boost    | **+30%**        |
+| Data Redundancy Reduced      | **-20%**        |
+| Data Protection Strengthened | **+25%**        |
+| Issues Identified            | **200+**        |
 
 ---
 
 ## 🧠 Featured Projects
 
-### 🔄 Automated Weather Data Pipeline
+<details>
+<summary><b>🔄 Automated Weather ETL Pipeline</b></summary>
+
 - **Stack**: Airflow, Python, PostgreSQL  
-- Real-time ingestion and transformation of weather data with error-handling and scheduler.
+- Automated pipeline that fetches, transforms, and loads real-time weather data into a PostgreSQL database with scheduling and logging.
+</details>
 
-### 🤖 LLM Resume Screener (AI/Vector Search)
+<details>
+<summary><b>🤖 LLM-Based Resume Screening Tool</b></summary>
+
 - **Stack**: GPT-4, LangChain, Pinecone, Streamlit  
-- AI-powered matching engine that uses vector similarity to recommend best-fit candidates.
+- AI-powered resume screener that uses vector similarity and LLMs to identify top-matching candidates.
+</details>
 
-### 💰 Salary Prediction & Feature Selection
+<details>
+<summary><b>💰 Salary Prediction & Feature Selection</b></summary>
+
 - **Stack**: Python, Scikit-learn  
-- Identified top influencing salary factors via feature engineering and regression models.
+- Feature engineering + model optimization to uncover salary influencers from large datasets.
+</details>
 
-### 🚗 Crash Data Risk Profiling
+<details>
+<summary><b>🚗 Crash Data Risk Profiling</b></summary>
+
 - **Stack**: Python, Talend, SQL  
-- Analyzed 3.2M+ US crash records and optimized data pipelines for actionable safety insights.
+- Analyzed 3.2M+ traffic records from major US cities to identify accident hotspots and optimize reporting.
+</details>
 
-### 🍽️ Food Safety BI Platform
-- **Stack**: SQL Server, Alteryx, Tableau, Power BI  
-- Reduced redundancy by 20%, improved monitoring accuracy, and delivered real-time reporting.
+<details>
+<summary><b>🍽️ Food Safety BI Platform</b></summary>
+
+- **Stack**: Alteryx, Power BI, Tableau  
+- Built a dashboard system to track food inspections and reduce data duplication by 20%.
+</details>
 
 ---
 
-## 🎯 Current Focus Areas
+## 📌 2025 Learning Goals
 
 ```python
 learning = {
-  "AI/ML": ["LLMs", "Vector Databases", "RAG"],
-  "Engineering": ["Event-driven Architectures", "Stream Processing", "DataOps"],
+  "AI/ML": ["LLMs", "Vector Databases", "RAG Systems"],
+  "Cloud": ["Serverless Analytics", "Stream Processing"],
   "BI": ["Predictive Dashboards", "Self-service Analytics"],
-  "Cloud": ["Serverless on AWS/GCP", "Real-time Processing"]
+  "Engineering": ["DataOps", "Real-time Pipelines"]
 }
-
-goals_2025 = [
-  "⚙️ Build scalable real-time analytics pipelines",
-  "🤖 Integrate AI-driven decision systems",
-  "📊 Automate end-to-end BI delivery",
-  "🧠 Master advanced data architecture"
-]
