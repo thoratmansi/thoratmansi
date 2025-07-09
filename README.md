@@ -34,7 +34,7 @@
 
 ## ⚒️ Technical Toolkit
 
-| 💻 Languages & Tools | 📊 Data & BI | 🧠 AI & ML | ☁️ Cloud & DevOps |
+| 💻 Languages & Tools | 📊 Data & BI | 🤖 AI & ML | ☁️ Cloud & DevOps |
 |----------------------|--------------|------------|-------------------|
 | Python, SQL, PySpark | Power BI, Tableau, Matplotlib, Seaborn | GPT-4, LangChain, Pinecone, Scikit-learn, Streamlit | AWS, GCP, Azure, Docker |
 | Airflow, dbt, PostgreSQL, Snowflake | KPI Reporting, Dashboards | Resume Matching, Vector Search | Serverless, Real-time Processing |
@@ -52,10 +52,6 @@
 ---
 
 ## 📈 Key Impact Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mansithorat&show_icons=true&theme=radical&hide=stars&custom_title=GitHub%20Stats" width="400"/>
-</p>
 
 | 📊 Metric                     | 🚀 Value       |
 |------------------------------|----------------|
