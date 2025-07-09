@@ -1,109 +1,98 @@
-# 👋 Hi, I'm Mansi Thorat
+<h1 align="center">Hi there! 👋 I'm <span style="color:#2196F3">Mansi Thorat</span></h1>
 
-**Data Engineer | Data Analyst | BI Professional**  
-Transforming data into real-time insights and AI-powered business solutions
+<p align="center">
+  <strong>Data Engineer • Data Analyst • BI Professional</strong><br>
+  Turning data into AI-powered, real-time strategic insights 🚀
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mansithorat)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mansithorat99@gmail.com)
-[![Tableau](https://img.shields.io/badge/-Tableau%20Portfolio-E97627?style=flat-square&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/mansi.thorat2353/vizzes)
+<p align="center">
+  <a href="https://linkedin.com/in/mansithorat">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mansithorat99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/mansi.thorat2353/vizzes">
+    <img src="https://img.shields.io/badge/Tableau%20Portfolio-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a data-driven professional with experience in **data engineering**, **analytics**, and **business intelligence**. I design scalable **ETL pipelines**, automate workflows, and build insightful dashboards to support high-impact decision-making.
+🎯 I specialize in designing **scalable data pipelines**, automating workflows, and building **interactive dashboards** to guide business decisions.
 
-Skilled in tools like **Python, SQL, Airflow, dbt, Snowflake, Power BI, and AWS**, I work at the intersection of analytics and innovation — from real-time reporting to AI-enhanced automation.
+💡 With a solid foundation in **Python, SQL, Power BI, Airflow, dbt, Snowflake, and AWS**, I thrive at the intersection of data engineering and advanced analytics — including **LLMs, automation, and AI-powered insights**.
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Technical Toolkit
 
-### 🏗️ Data Engineering  
-`ETL Pipelines` • `Apache Airflow` • `dbt` • `Snowflake` • `PostgreSQL` • `Docker`
-
-### 📊 Analytics & BI  
-`SQL` • `Python (Pandas, NumPy)` • `Power BI` • `Tableau` • `Matplotlib` • `Seaborn`
-
-### 🤖 AI & Automation  
-`GPT-4` • `LangChain` • `Pinecone` • `Scikit-Learn` • `Streamlit` • `Vector Search`
-
-### ☁️ Cloud Platforms  
-`AWS` • `Google Cloud` • `Azure`
+| 💻 Languages | 🏗️ Engineering & Pipelines | 📊 BI & Visualization | 🤖 AI/ML & Automation | ☁️ Cloud |
+|-------------|-----------------------------|------------------------|------------------------|----------|
+| Python, SQL, PySpark | Airflow, dbt, Snowflake, PostgreSQL, Docker | Power BI, Tableau, Matplotlib, Seaborn | GPT-4, LangChain, Pinecone, Scikit-learn, Streamlit | AWS, GCP, Azure |
 
 ---
 
 ## 🎓 Education
 
-- **Northeastern University, Boston**  
+- 🎓 **Northeastern University, Boston**  
   *MS in Information Systems – Data Analytics (2025)*
 
-- **Savitribai Phule Pune University, India**  
+- 🎓 **Savitribai Phule Pune University**  
   *BE in Electronics & Telecommunication (2021)*
 
 ---
 
-## 📊 Key Impact
+## 📈 Key Stats
 
-| ✅ Metric                        | 📈 Value     |
-|-------------------------------|-------------|
-| Projects Completed            | 10+         |
-| Records Analyzed              | 3.2M+       |
-| Data Issues Identified        | 200+        |
-| Efficiency Gains              | +30%        |
-| Redundancy Reduced            | -20%        |
-| Data Protection Improved      | +25%        |
-| Faster Response Time          | +15%        |
-| Distribution Efficiency Boost | +20%        |
+- 📊 **3.2M+** records analyzed  
+- ⚙️ **10+** end-to-end projects completed  
+- 🐛 **200+** data quality issues uncovered  
+- 💡 **30%+** workflow efficiency boost  
+- 🔒 **25%** improvement in data security  
+- 🧹 **20%** redundancy reduction  
 
 ---
 
 ## 🧠 Featured Projects
 
-### 🌤️ Automated Weather ETL Pipeline
-- **Stack**: Airflow, Python, PostgreSQL, APIs  
-- Built a real-time ETL pipeline using Airflow to fetch, transform, and store weather data with error handling and scheduling.
+### 🔄 Automated Weather Data Pipeline
+- **Stack**: Airflow, Python, PostgreSQL  
+- Real-time ingestion and transformation of weather data with error-handling and scheduler.
 
-### 🤖 Intelligent Resume Screening
+### 🤖 LLM Resume Screener (AI/Vector Search)
 - **Stack**: GPT-4, LangChain, Pinecone, Streamlit  
-- AI-powered resume screening tool leveraging vector similarity and GPT to match candidates efficiently.
+- AI-powered matching engine that uses vector similarity to recommend best-fit candidates.
 
-### 💰 Salary Prediction Feature Analysis
+### 💰 Salary Prediction & Feature Selection
 - **Stack**: Python, Scikit-learn  
-- Identified salary drivers with feature engineering and regression models, improving prediction accuracy.
+- Identified top influencing salary factors via feature engineering and regression models.
 
-### 🚗 Urban Crash Data Profiling
+### 🚗 Crash Data Risk Profiling
 - **Stack**: Python, Talend, SQL  
-- Analyzed 3.2M+ traffic records to identify risk patterns and optimize transformation processes.
+- Analyzed 3.2M+ US crash records and optimized data pipelines for actionable safety insights.
 
-### 🍽️ Food Safety Analytics
+### 🍽️ Food Safety BI Platform
 - **Stack**: SQL Server, Alteryx, Tableau, Power BI  
-- Built an end-to-end BI system to reduce data redundancy and improve monitoring across food safety metrics.
-
-### 🎫 Service Request Insights
-- **Stack**: Power BI, Tableau, SQL  
-- Delivered actionable dashboards that improved response time by 15% and identified 200+ inconsistencies.
-
-### 💳 Personal Finance Tracker
-- **Stack**: SQL, Triggers, Stored Procedures  
-- Built a scalable finance data model with automation, reducing redundancy by 20%.
-
-### 📉 Recession Trend Analysis
-- **Stack**: Python, Time Series Modeling  
-- Used statistical modeling to predict recession patterns and inform forecasting decisions.
-
-### 💉 Smart Vaccine Distribution
-- **Stack**: AI/ML, Logistics Analytics  
-- Developed an AI-driven platform to improve vaccine logistics by 20% through optimized routing and allocation.
+- Reduced redundancy by 20%, improved monitoring accuracy, and delivered real-time reporting.
 
 ---
 
-## 🎯 Focus Areas (2025)
+## 🎯 Current Focus Areas
 
 ```python
-current_learning = {
-    "AI/ML": ["LLMs", "Vector Databases", "RAG Systems"],
-    "Cloud": ["Serverless Analytics", "Real-time Data Processing"],
-    "Data Engineering": ["Stream Processing", "Event-driven Architecture"],
-    "BI": ["Predictive Modeling", "Self-service Analytics"]
+learning = {
+  "AI/ML": ["LLMs", "Vector Databases", "RAG"],
+  "Engineering": ["Event-driven Architectures", "Stream Processing", "DataOps"],
+  "BI": ["Predictive Dashboards", "Self-service Analytics"],
+  "Cloud": ["Serverless on AWS/GCP", "Real-time Processing"]
 }
+
+goals_2025 = [
+  "⚙️ Build scalable real-time analytics pipelines",
+  "🤖 Integrate AI-driven decision systems",
+  "📊 Automate end-to-end BI delivery",
+  "🧠 Master advanced data architecture"
+]
